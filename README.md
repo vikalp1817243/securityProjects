@@ -28,7 +28,7 @@ This repository contains a suite of security tools developed during my internshi
    python3 project05.py
 
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 > These tools are developed for **educational and authorized testing purposes only**. The author is not responsible for any misuse of these utilities. Always obtain proper authorization before scanning targets.
 
