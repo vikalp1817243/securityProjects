@@ -1,4 +1,4 @@
-# Offensive Cybersecurity Internship Portfolio
+# Offensive Cybersecurity Python Commandline Projects
 
 This repository contains a suite of security tools developed during my internship in Offensive Cybersecurity. The tools focus on the **Reconnaissance**, **Enumeration**, and **Cryptography** phases of the ethical hacking lifecycle.
 
@@ -16,8 +16,8 @@ This repository contains a suite of security tools developed during my internshi
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/mohan1817243/InternshipProjects.git](https://github.com/mohan1817243/InternshipProjects.git)
-   cd InternshipProjects
+   git clone [https://github.com/vikalp1817243/secuirtyProjects.git](https://github.com/vikalp1817243/securityProjects.git)
+   cd securityProjects
 
 2. **Installing dependencies:**
    ```bash
